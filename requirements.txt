@@ -1,0 +1,7 @@
+python-socketio>=5.11.1
+fastapi>=0.110.0
+Wave>=0.0.2
+pydub~=0.25.1
+uvicorn>=0.27.1
+
+google-cloud-speech~=2.25.0
